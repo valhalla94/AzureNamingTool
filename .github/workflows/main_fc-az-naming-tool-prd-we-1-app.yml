@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'fc-az-naming-tool-prd-we-1-app'
           slot-name: 'Production'
-          package: .
+          package: /src
           
